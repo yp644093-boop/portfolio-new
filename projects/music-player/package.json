@@ -1,0 +1,13 @@
+{
+  "name": "stellar-audio-player",
+  "version": "1.0.0",
+  "description": "Premium Vanilla JS Music Player",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

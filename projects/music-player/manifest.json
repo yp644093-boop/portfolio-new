@@ -1,0 +1,21 @@
+{
+  "name": "Stellar Audio",
+  "short_name": "Stellar",
+  "description": "Premium Vanilla JS Music Player",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/8b5cf6/ffffff?text=S",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/8b5cf6/ffffff?text=Stellar",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
